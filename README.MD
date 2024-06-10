@@ -1,4 +1,4 @@
-# C SNIPPETS
+# C Snippets
 
 ## Introduction
 
@@ -19,7 +19,7 @@ With a rich history and an enduring legacy, C remains a vital language in the pr
 3. [TutorialSpoint](03-tutorialspoint/)
 
 
-# CONTACT
+# Contact
 
 ### Website: 
 
